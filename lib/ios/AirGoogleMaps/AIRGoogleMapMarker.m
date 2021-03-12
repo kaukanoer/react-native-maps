@@ -9,7 +9,7 @@
 
 #import "AIRGoogleMapMarker.h"
 #import <GoogleMaps/GoogleMaps.h>
-#import <React/RCTImageLoaderProtocol.h>
+#import <React/RCTImageLoader.h>
 #import <React/RCTUtils.h>
 #import "AIRGMSMarker.h"
 #import "AIRGoogleMapCallout.h"
